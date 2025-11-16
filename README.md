@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leogondev, a mainframe developer based in Germany
-- 👀 I’m interested in learning new skills in app development, no matter on device oder web
+- 👀 I’m interested in learning new skills in app development, no matter on device or web
 - 🌱 I’m currently learning Java, frameworks like Angular or React are yet to come.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
